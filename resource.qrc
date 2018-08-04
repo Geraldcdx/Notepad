@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>pics/if_Add_27831.png</file>
+        <file>pics/if_Check_27837.png</file>
+        <file>pics/if_Copy_27840.png</file>
+        <file>pics/if_Folder_27849.png</file>
+        <file>pics/if_Help_27853.png</file>
+        <file>pics/if_Paste_27862.png</file>
+        <file>pics/if_Save_27876.png</file>
+        <file>pics/if_Search_27877.png</file>
+        <file>pics/if_Stock Index Up_27881.png</file>
+        <file>pics/if_BT_copy_905652.png</file>
+        <file>pics/if_cut_172590.png</file>
+        <file>pics/if_170_CurvedArrowRightDown_183290.png</file>
+        <file>pics/if_icon-ios7-redo_211811.png</file>
+    </qresource>
+</RCC>
